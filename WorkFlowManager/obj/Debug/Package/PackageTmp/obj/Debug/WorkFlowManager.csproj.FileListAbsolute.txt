@@ -1,0 +1,107 @@
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.pdb
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.pdb
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\AjaxControlToolkit.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\AjaxMin.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\BAL.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\DAL.dll
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\BAL.pdb
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\bin\DAL.pdb
+D:\Development\EMSDB Requirements\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csprojResolveAssemblyReference.cache
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.dll
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.pdb
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\BAL.dll
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\DAL.dll
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\BAL.pdb
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\bin\DAL.pdb
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csprojResolveAssemblyReference.cache
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.dll
+D:\EMSD_DB\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.pdb
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.dll
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.pdb
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\BAL.dll
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\DAL.dll
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\BAL.pdb
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\DAL.pdb
+D:\EMS\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csprojResolveAssemblyReference.cache
+D:\EMS\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.dll
+D:\EMS\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.pdb
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\Test.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\Test.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.rpt
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.cs
+D:\EMS\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csprojResolveAssemblyReference.cache
+D:\test\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.dll
+D:\test\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.pdb
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\Test.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.rpt
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\Test.cs
+D:\test\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.dll
+D:\test\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.pdb
+D:\test\WorkFlowManager\WorkFlowManager\bin\BAL.dll
+D:\test\WorkFlowManager\WorkFlowManager\bin\DAL.dll
+D:\test\WorkFlowManager\WorkFlowManager\bin\BAL.pdb
+D:\test\WorkFlowManager\WorkFlowManager\bin\DAL.pdb
+D:\test\WorkFlowManager\WorkFlowManager\bin\ClosedXML.dll
+D:\test\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csproj.ResolveComReference.cache
+D:\test\WorkFlowManager\WorkFlowManager\bin\DocumentFormat.OpenXml.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\Test.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.rpt
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_DetailedUserReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_DetailsAdmin.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceAdminReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_InvoiceUserReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCAdminUserReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCSummaryReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_QCUserReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\CR_SummaryReport.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\Test.cs
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\WorkFlowManager.pdb
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\BAL.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\DAL.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\DocumentFormat.OpenXml.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\BAL.pdb
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\DAL.pdb
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\bin\DocumentFormat.OpenXml.xml
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csprojResolveAssemblyReference.cache
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.csproj.ResolveComReference.cache
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.dll
+D:\EMS\Backup\WorkFlowManager\WorkFlowManager\obj\Debug\WorkFlowManager.pdb

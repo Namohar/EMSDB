@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRealTime" targetNamespace="http://tempuri.org/dsRealTime.xsd" xmlns:mstns="http://tempuri.org/dsRealTime.xsd" xmlns="http://tempuri.org/dsRealTime.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRealTime" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsRealTime" msprop:Generator_UserDSName="dsRealTime">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtRealTime" msprop:Generator_TableClassName="dtRealTimeDataTable" msprop:Generator_TableVarName="tabledtRealTime" msprop:Generator_TablePropName="dtRealTime" msprop:Generator_RowDeletingName="dtRealTimeRowDeleting" msprop:Generator_RowChangingName="dtRealTimeRowChanging" msprop:Generator_RowEvHandlerName="dtRealTimeRowChangeEventHandler" msprop:Generator_RowDeletedName="dtRealTimeRowDeleted" msprop:Generator_UserTableName="dtRealTime" msprop:Generator_RowChangedName="dtRealTimeRowChanged" msprop:Generator_RowEvArgName="dtRealTimeRowChangeEvent" msprop:Generator_RowClassName="dtRealTimeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpName" msprop:Generator_ColumnVarNameInTable="columnEmpName" msprop:Generator_ColumnPropNameInRow="EmpName" msprop:Generator_ColumnPropNameInTable="EmpNameColumn" msprop:Generator_UserColumnName="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="Client" msprop:Generator_ColumnVarNameInTable="columnClient" msprop:Generator_ColumnPropNameInRow="Client" msprop:Generator_ColumnPropNameInTable="ClientColumn" msprop:Generator_UserColumnName="Client" type="xs:string" minOccurs="0" />
+              <xs:element name="Task" msprop:Generator_ColumnVarNameInTable="columnTask" msprop:Generator_ColumnPropNameInRow="Task" msprop:Generator_ColumnPropNameInTable="TaskColumn" msprop:Generator_UserColumnName="Task" type="xs:string" minOccurs="0" />
+              <xs:element name="SubTask" msprop:Generator_ColumnVarNameInTable="columnSubTask" msprop:Generator_ColumnPropNameInRow="SubTask" msprop:Generator_ColumnPropNameInTable="SubTaskColumn" msprop:Generator_UserColumnName="SubTask" type="xs:string" minOccurs="0" />
+              <xs:element name="Log" msprop:Generator_ColumnVarNameInTable="columnLog" msprop:Generator_ColumnPropNameInRow="Log" msprop:Generator_ColumnPropNameInTable="LogColumn" msprop:Generator_UserColumnName="Log" type="xs:string" minOccurs="0" />
+              <xs:element name="StartTime" msprop:Generator_ColumnVarNameInTable="columnStartTime" msprop:Generator_ColumnPropNameInRow="StartTime" msprop:Generator_ColumnPropNameInTable="StartTimeColumn" msprop:Generator_UserColumnName="StartTime" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Duration" msprop:Generator_ColumnVarNameInTable="columnDuration" msprop:Generator_ColumnPropNameInRow="Duration" msprop:Generator_ColumnPropNameInTable="DurationColumn" msprop:Generator_UserColumnName="Duration" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" type="xs:string" minOccurs="0" />
+              <xs:element name="Comments" msprop:Generator_ColumnVarNameInTable="columnComments" msprop:Generator_ColumnPropNameInRow="Comments" msprop:Generator_ColumnPropNameInTable="CommentsColumn" msprop:Generator_UserColumnName="Comments" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
